@@ -1,7 +1,7 @@
 # Quality-Aware Memory Network for Interactive Volumetric Image Segmentation
 
 <p align="center">
-<img src="https://github.com/0liliulei/Mem3D/arch.png" width="600">
+<img src="https://github.com/0liliulei/Mem3D/blob/main/arch.png" width="600">
 </p>
 
 This repo contains the source code of out Quality-Aware Memory Network in MICCAI 2021. [[Paper](https://arxiv.org/abs/2106.10686)]
