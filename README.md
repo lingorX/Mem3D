@@ -4,7 +4,7 @@
 <img src="https://github.com/0liliulei/Mem3D/blob/main/arch.png" width="1000">
 </p>
 
-This repo contains the source code of out Quality-Aware Memory Network in MICCAI 2021. [[Paper](https://arxiv.org/abs/2106.10686)]
+This repo contains the source code of our Quality-Aware Memory Network in MICCAI 2021. [[Paper](https://arxiv.org/abs/2106.10686)]
 
 ## Data
 
